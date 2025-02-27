@@ -14,7 +14,7 @@ Proyek ini berisi kode untuk praktikum Kecerdasan Buatan (AI). Notebook ini menc
    - Pastikan semua sel dijalankan satu per satu.
    - Jika ada dependensi tambahan, jalankan perintah di dalam sel kode:
      ```python
-     !pip install -r requirements.txt
+     !pip install scikit-learn
      ```
 
 3. Mengakses File di Google Drive (Opsional)
