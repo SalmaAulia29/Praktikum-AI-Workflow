@@ -1,1 +1,1 @@
-# Praktikum-AI-Workflow
+# Praktikum_AI_Workflow
