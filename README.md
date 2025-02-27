@@ -2,7 +2,15 @@
 2306143_SALMA AULIA NISA
 
 ## Deskripsi Proyek
-Proyek ini berisi kode untuk praktikum Kecerdasan Buatan (AI). Notebook ini mencakup implementasi berbagai metode AI, termasuk pemrosesan data, pelatihan model, dan evaluasi hasil.
+Proyek ini bertujuan untuk mengimplementasikan konsep kecerdasan buatan (AI) dalam analisis dan prediksi penjualan produk. Dalam proyek ini, dilakukan beberapa tahap utama:
+
+Pembuatan Dataset: Membuat dataset penjualan dalam format CSV dengan informasi produk, jumlah terjual, stok, dan harga satuan.
+
+Pembersihan dan Pengolahan Data: Memproses dataset untuk memastikan data bersih, lengkap, dan siap digunakan dalam model AI.
+
+Pelatihan Model AI: Menggunakan Decision Tree Classifier untuk memprediksi apakah suatu produk perlu restock berdasarkan data penjualan.
+
+Prediksi dan Visualisasi: Menggunakan model yang telah dilatih untuk melakukan prediksi serta membuat visualisasi hubungan antara jumlah terjual, stok, dan keuntungan.
 
 ## Instruksi Cara Menjalankan Kode di Google Colab
 
